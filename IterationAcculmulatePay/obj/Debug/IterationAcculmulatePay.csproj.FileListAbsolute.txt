@@ -1,0 +1,6 @@
+C:\Users\Patri\OneDrive\CSProjects\IterationAcculmulatePay\IterationAcculmulatePay\bin\Debug\IterationAcculmulatePay.exe.config
+C:\Users\Patri\OneDrive\CSProjects\IterationAcculmulatePay\IterationAcculmulatePay\bin\Debug\IterationAcculmulatePay.exe
+C:\Users\Patri\OneDrive\CSProjects\IterationAcculmulatePay\IterationAcculmulatePay\bin\Debug\IterationAcculmulatePay.pdb
+C:\Users\Patri\OneDrive\CSProjects\IterationAcculmulatePay\IterationAcculmulatePay\obj\Debug\IterationAcculmulatePay.csprojResolveAssemblyReference.cache
+C:\Users\Patri\OneDrive\CSProjects\IterationAcculmulatePay\IterationAcculmulatePay\obj\Debug\IterationAcculmulatePay.exe
+C:\Users\Patri\OneDrive\CSProjects\IterationAcculmulatePay\IterationAcculmulatePay\obj\Debug\IterationAcculmulatePay.pdb
